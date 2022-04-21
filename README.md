@@ -18,5 +18,8 @@ Testing / borrowing formatting for saving
  
 ## Hyphen?
 - hyphen
-- 
- 
+- gives me bullets
+  - space-space-hyphen
+  - gives me next level
+    - four-space-hyphen
+    - changed to red(!)
